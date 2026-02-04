@@ -1,3 +1,14 @@
-# abcd-agentic-training-vnr--Sreeshma07-
-Full Stack- TO DO list
-ML- Spam Email Detection
+# Spam Email Detection using Machine Learning
+
+This project detects spam emails using a machine learning model.
+
+## Model Used
+TF-IDF Vectorizer with Naive Bayes classifier.
+
+## Dataset
+Spam Email Dataset from Kaggle.
+
+## Libraries
+pandas
+numpy
+scikit-learn
